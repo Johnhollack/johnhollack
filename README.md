@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Here are some insights about me:
 
 - 🔭 I’m currently working on Klas.
 - 🌱 I’m currently learning Software architecture
