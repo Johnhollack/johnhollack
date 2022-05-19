@@ -11,10 +11,20 @@ Here are some insights about me:
 - 😄 Pronouns: He
 - ⚡ Fun fact: Love researching
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=johnhollack&no-theme=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56757579774f746b663867797938395467592f67697068792e676966TECH STACK
+STATS
 
- css3  html5  java  javascript  nodejs  postgresql  python  rails  ruby  vuejs
+[![trophy](https://github-profile-trophy.vercel.app/?username=johnhollack&&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+STACK
+
+1. Experience using modern MVC framework (React Js, React Native, Next Js, Laravel, Vue)
+2. Experience using modern languages (Python, Typescript, Javascript, Node Js, HTML, Tailwind, CSS)
+3. Experience using modern design framework (Figma, Invision, Photoshop)
+4. Experience working with Git, GitUI, GitBash
+5. Experience working with Relational Databases such as GraphQL, MySQL, and Google Firestore
+6. Familiarity with using Cloud-based platforms such as AWS, AWS Amplify and Firebase.
+7. Backend Stacks: MERN Stack(MongoDB, GraghQL, Apollo, React, NodeJs), Python Stack (MySQL, Flask, Python, Django), PHP Stack (Laravel, MyPHPAdmin).
+8. Containerisation: Docker, Docker Compose, AWS Beanstalk and EC2.
  
