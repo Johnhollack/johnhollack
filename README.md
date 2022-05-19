@@ -11,3 +11,4 @@ Here are some insights about me:
 - 😄 Pronouns: He
 - ⚡ Fun fact: Love researching
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=johnhollack&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
