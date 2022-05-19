@@ -14,7 +14,7 @@ Here are some insights about me:
 
 STATS
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=johnhollack&&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=johnhollack&&no-bg=true&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 STACK
