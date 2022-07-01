@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-Welome to my profile: @johnhollack
+Welome to my profile: @johnhollack ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=MY+VIEWERS)
 
-## VIEWS
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=MY+VIEWERS)
+## ABOUT ME
 
 Here are some insights about me:
 
