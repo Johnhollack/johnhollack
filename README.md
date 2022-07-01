@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 Welome to my profile: @johnhollack 
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=MY+VIEWERS)
 
 
-## ABOUT ME
+### ABOUT ME
 
 Here are some insights about me:
 
@@ -18,12 +19,12 @@ Here are some insights about me:
 - ⚡ Fun fact: Love researching
 
 
-## STATS
+### STATS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=johnhollack&&no-bg=true&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## STACK
+### STACK
 
 1. Experience using modern MVC framework (React Js, React Native, Next Js, Laravel, Vue)
 2. Experience using modern languages (Python, Typescript, Javascript, Node Js, HTML, Tailwind, CSS)
