@@ -9,13 +9,9 @@ Welome to my profile: @johnhollack
 
 Here are some insights about me:
 
-- 🔭 I’m currently working on Klas.
-- 🌱 I’m currently learning Software architecture
-- 👯 I’m looking to collaborate on software engineering projects,
-- 🤔 I’m looking for help with funding 😄
+- 🔭 I’m currently working on Klas & GoFree.
 - 💬 Ask me about anything in startup engineering space
 - 📫 How to reach me: johnhollack@gmail.com
-- 😄 Pronouns: He
 - ⚡ Fun fact: Love researching
 
 
@@ -52,3 +48,7 @@ Here are some insights about me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
  
+ 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johnhollack&theme=dark&background=000000)](https://git.io/streak-stats)
